@@ -27,7 +27,7 @@ SECRET_KEY = 'jumwv*tqc-sqv=lr*k3=^0rkq=(57g=iz67f4y%&nf!y#8ceq5'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['api-contactlist.herokuapp.com']
 
 
 # Application definition
